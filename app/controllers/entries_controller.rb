@@ -1,4 +1,4 @@
-class EntriesController < ApplicationController
+class ApplicationController < ActionController
 
   def new
  
